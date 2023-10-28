@@ -1,0 +1,18 @@
+[submodule "assignment-1-FASKA2003"]
+	path = assignment-1-FASKA2003
+	url = https://github.com/cu-ecen-aeld/assignment-1-FASKA2003.git
+[submodule "assignment-2-FASKA2003"]
+	path = assignment-2-FASKA2003
+	url = https://github.com/cu-ecen-aeld/assignment-2-FASKA2003.git
+[submodule "assignment-3-FASKA2003"]
+	path = assignment-3-FASKA2003
+	url = https://github.com/cu-ecen-aeld/assignment-4-FASKA2003.git
+[submodule "assignment-4-FASKA2003"]
+	path = assignment-4-FASKA2003
+	url = https://github.com/cu-ecen-aeld/assignment-4-FASKA2003.git
+[submodule "assignment-5-FASKA2003"]
+	path = assignment-5-FASKA2003
+	url = https://github.com/cu-ecen-aeld/assignment-5-FASKA2003.git
+[submodule "assignment-3-and-later-FASKA2003"]
+	path = assignment-3-and-later-FASKA2003
+	url = https://github.com/cu-ecen-aeld/assignments-3-and-later-FASKA2003.git
